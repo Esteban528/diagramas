@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T19:53:26.511Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.0" etag="-0YXJoN2T1Fu5eXOZ3wY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T20:42:59.909Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="iN3wG9FKSu2X1gyGmIXa" version="22.0.0" type="github">
   <diagram name="Page-1" id="NwqxcCg8PpFFORfgx7wK">
-    <mxGraphModel>
+    <mxGraphModel dx="1120" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XOMtsE14je-FvuCJKThT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="850" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOMtsE14je-FvuCJKThT-3" value="MENU ITEMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="830" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOMtsE14je-FvuCJKThT-5" value="&lt;div&gt;FOTO DE LA PERSONA &lt;br&gt;&lt;/div&gt;&lt;div&gt;SEA PERFIL&lt;br&gt;&lt;/div&gt;&lt;div&gt;O TRABAJANDO&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XOMtsE14je-FvuCJKThT-6" value="TU BIOGRAFIA" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XOMtsE14je-FvuCJKThT-7" value="TUS ESPECIALIDADES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOMtsE14je-FvuCJKThT-13" value="FOOTER CONTACTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="760" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
