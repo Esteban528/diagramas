@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T00:10:08.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="D-9nAQNmsdGhuMwwZtBp" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T17:47:50.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="f86GIzySF0h4MoG2Mf47" version="24.2.2" type="github">
   <diagram name="Página-1" id="djj3ZXUcn-spQ-AeiXdr">
-    <mxGraphModel dx="1120" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,10 +146,10 @@
           <mxGeometry x="113" y="3970" width="674" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiacfGHye9uDKOrI_mrM-6" value="&lt;div&gt;imagen acerca de las utima novedad &lt;br&gt;&lt;/div&gt;&lt;div&gt;que se ha hecho en la institucion&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="3720" width="306" height="180" as="geometry" />
+          <mxGeometry x="100" y="3720" width="306" height="210" as="geometry" />
         </mxCell>
         <mxCell id="eiacfGHye9uDKOrI_mrM-7" value="&lt;div&gt;logo&lt;/div&gt;&lt;div&gt;institucion&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="522.5" y="3680" width="80" height="80" as="geometry" />
+          <mxGeometry x="212.5" y="3680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eiacfGHye9uDKOrI_mrM-9" value="&lt;div&gt;slider donde se muestre todas las imaganes sobre todas las novedades pasadas que &lt;br&gt;&lt;/div&gt;&lt;div&gt;se han hecho en la intitucion&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="178" y="4050" width="520" height="280" as="geometry" />
@@ -228,15 +228,6 @@
         </mxCell>
         <mxCell id="eiacfGHye9uDKOrI_mrM-48" value="menu de navegacion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="3442.5" width="220" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="eiacfGHye9uDKOrI_mrM-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="3730" width="240" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="eiacfGHye9uDKOrI_mrM-52" value="titulo de la publicaicion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="3730" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eiacfGHye9uDKOrI_mrM-53" value="&lt;div&gt;informacion sobre la ultima&amp;nbsp;&lt;/div&gt;&lt;div&gt;novedad que se puede &lt;br&gt;&lt;/div&gt;&lt;div&gt;tener en la institucion&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160" y="3790" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eiacfGHye9uDKOrI_mrM-55" value="logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="80" y="970" width="80" height="80" as="geometry" />
@@ -406,14 +397,23 @@
         <mxCell id="80yrvIJwGrB-OrTqxSI2-31" value="Pagina de Inicio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="11" y="-20" width="820" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GCGnRDsFtHJP8SzPGg9A-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eiacfGHye9uDKOrI_mrM-66" target="eiacfGHye9uDKOrI_mrM-66">
+        <mxCell id="GCGnRDsFtHJP8SzPGg9A-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="eiacfGHye9uDKOrI_mrM-66" target="eiacfGHye9uDKOrI_mrM-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GCGnRDsFtHJP8SzPGg9A-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="GCGnRDsFtHJP8SzPGg9A-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="290" y="950" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GCGnRDsFtHJP8SzPGg9A-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="GCGnRDsFtHJP8SzPGg9A-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="422" y="950" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f3dqvCDUwf1wGMR-1MYK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="3730" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="f3dqvCDUwf1wGMR-1MYK-4" value="titulo de la publicacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="3750" width="256" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f3dqvCDUwf1wGMR-1MYK-5" value="texto relacionado con la&amp;nbsp;&lt;div&gt;publicacion&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="3810" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
