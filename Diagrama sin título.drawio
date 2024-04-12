@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T17:47:50.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="f86GIzySF0h4MoG2Mf47" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T22:56:55.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="bGrC4kmf9iPUhXTwFzZh" version="24.2.2" type="github">
   <diagram name="Página-1" id="djj3ZXUcn-spQ-AeiXdr">
     <mxGraphModel dx="880" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -406,13 +406,13 @@
         <mxCell id="GCGnRDsFtHJP8SzPGg9A-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="422" y="950" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f3dqvCDUwf1wGMR-1MYK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f3dqvCDUwf1wGMR-1MYK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="3730" width="290" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="f3dqvCDUwf1wGMR-1MYK-4" value="titulo de la publicacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f3dqvCDUwf1wGMR-1MYK-4" value="titulo de la publicacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="494" y="3750" width="256" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f3dqvCDUwf1wGMR-1MYK-5" value="texto relacionado con la&amp;nbsp;&lt;div&gt;publicacion&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="f3dqvCDUwf1wGMR-1MYK-5" value="texto relacionado con la&amp;nbsp;&lt;div&gt;publicacion&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="3810" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
